@@ -184,3 +184,47 @@ input[type="email"] {
 textarea[class="form-control"] {
   background-color: #f6f6f6;
 }
+.about-page {
+  background-color: #f6f6f6;
+}
+.about-box {
+  height: 500px;
+  width: 100%;
+  background-color: #fff;
+  position: relative;
+}
+.abot-box-1 {
+  height: 100%;
+  width: 50%;
+  background-image: url("/img/abt.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #a35747;
+  background-position: center;
+}
+.abot-box-2 {
+  position: absolute;
+  width: 60%;
+  height: 300px;
+  background-color: #f6f6f6;
+  top: 100px;
+  left: 400px;
+}
+.abot-box-2 p {
+  font-size: 16px;
+}
+.team-card {
+  width: 250px;
+  height: 350px;
+  border-radius: 2px;
+  background-color: #fff;
+  background-image: url("/img/team.jpg");
+  background-size: cover;
+  margin: 10px;
+}
+.circle-team {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  border: 1px solid black;
+}

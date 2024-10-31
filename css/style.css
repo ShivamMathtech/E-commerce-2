@@ -291,3 +291,11 @@ ul li {
   height: 250px;
   background-color: #fff;
 }
+.img-box-pro {
+  height: 200px;
+  width: 100%;
+}
+.img-box-pro img {
+  height: 100%;
+  width: 100%;
+}

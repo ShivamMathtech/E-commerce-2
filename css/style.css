@@ -147,3 +147,40 @@ header h1 {
 .share-bar .nav-link {
   color: #333333;
 }
+.uploaded-by {
+  height: 200px;
+  background-color: #f6f6f6;
+}
+.section {
+  width: 100%;
+}
+.user-circle {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  background-color: #c87065;
+  background-image: url("/img/use.jfif");
+  background-size: cover;
+}
+.user-info {
+  width: 80%;
+  margin-left: 10px;
+}
+.cBtn {
+  background-color: #c87065;
+  color: white;
+}
+.cBtn:hover {
+  background-color: #a35747;
+  color: white;
+}
+input[type="text"] {
+  background-color: #f6f6f6;
+  outline: none;
+}
+input[type="email"] {
+  background-color: #f6f6f6;
+}
+textarea[class="form-control"] {
+  background-color: #f6f6f6;
+}

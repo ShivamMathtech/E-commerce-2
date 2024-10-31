@@ -233,3 +233,61 @@ textarea[class="form-control"] {
   width: 100%;
   background-color: #fff;
 }
+.product-list {
+  background-color: #f6f6f6;
+}
+.search-box {
+  width: 100%;
+  height: 50px;
+  background-color: #fff;
+}
+.categories {
+  width: 100%;
+  background-color: #fff;
+}
+.price-range {
+  height: 120px;
+  background-color: #fff;
+  width: 100%;
+}
+.color-range {
+  height: 300px;
+  background-color: #fff;
+  width: 100%;
+}
+.size {
+  height: 120px;
+  background-color: #fff;
+  width: 100%;
+}
+.best-sale {
+  height: 340px;
+  background-color: #fff;
+  width: 100%;
+}
+.best-sale img {
+  height: 100%;
+  width: 100%;
+}
+.plistheader {
+  height: 40px;
+  border-bottom: 2px solid #f6f6f6;
+}
+.size-box {
+  height: 30px;
+  width: 30px;
+  margin: 5px;
+  background-color: #f2f2f2;
+}
+ul li {
+  list-style: none;
+}
+.color-icon {
+  width: 15px;
+  height: 15px;
+  background-color: lightsalmon;
+}
+.product-info-box {
+  height: 250px;
+  background-color: #fff;
+}

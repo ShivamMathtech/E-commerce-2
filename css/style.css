@@ -228,3 +228,8 @@ textarea[class="form-control"] {
   border-radius: 50%;
   border: 1px solid black;
 }
+.message-box {
+  height: 500px;
+  width: 100%;
+  background-color: #fff;
+}

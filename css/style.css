@@ -109,3 +109,41 @@ header h1 {
 .footer-bottom p {
   font-size: 14px;
 }
+.single-blog {
+  background-color: #f6f6f6;
+}
+.single-blog-page {
+  background-color: #ffffff;
+  width: 100%;
+}
+.imb-x {
+  height: 450px;
+  width: 100%;
+}
+.imb-x {
+  position: relative;
+}
+.imb-x img {
+  height: 100%;
+  width: 100%;
+}
+.box-date {
+  position: absolute;
+  height: 70px;
+  width: 70px;
+  background-color: #fff;
+  border: 1px solid #c87065;
+  top: 10px;
+  left: 10px;
+}
+.imb-x h4 {
+  font-size: 20px;
+  color: #c87065;
+}
+.share-bar {
+  height: 50px;
+  background-color: #f6f6f6;
+}
+.share-bar .nav-link {
+  color: #333333;
+}

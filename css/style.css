@@ -1,0 +1,111 @@
+header {
+  height: 60px;
+  background-color: #ffffff;
+}
+header h1 {
+  font-size: 30px;
+  color: #333333;
+  font-weight: 700;
+  color: #c8a165;
+}
+.bt-1 i {
+  font-size: 20px;
+}
+.cart {
+  position: relative;
+}
+.items {
+  position: absolute;
+  height: 15px;
+  width: 15px;
+  border-radius: 15px;
+  background-color: #c87065;
+  top: -5px;
+  left: 10px;
+}
+.cart a {
+  color: #333333;
+}
+.banner-page {
+  height: 50vh;
+  background: linear-gradient(to right, #a4a4a4, #a3a3a3, #a5a4a4);
+  background-image: url("/img/bnn2.jpg");
+  background-size: cover;
+  background-position: center;
+}
+.overlay {
+  height: 100%;
+  background-color: rgb(0, 0, 0, 0.5);
+}
+.r-1 {
+  height: 45vh;
+}
+.banner-page h1 {
+  font-size: 32px;
+  font-weight: 700;
+  color: #ffffff;
+}
+.content-page {
+  background-color: #f6f6f6;
+}
+.section-1 {
+  height: 50px;
+  background-color: #ffffff;
+}
+.section-1 .nav-link {
+  color: #999999;
+  font-size: 14px;
+}
+.section-1 .active {
+  color: #c8a26f;
+}
+.img-box {
+  height: 350px;
+  background-color: #ffffff;
+}
+.img-top {
+  height: 175px;
+}
+.img-top img {
+  height: 100%;
+  width: 100%;
+}
+.sq {
+  display: block;
+  height: 40px;
+  width: 40px;
+  border: 1px solid #d6948c;
+  color: #c87065;
+  font-weight: 500;
+}
+.month {
+  color: #c87065;
+  font-size: 14px;
+}
+.text-box p {
+  font-size: 14px;
+}
+.text-box a {
+  text-decoration: none;
+  color: #c87065;
+}
+.footer {
+  height: 40vh;
+  background-color: #eeeeee;
+}
+.footer-top {
+  height: calc(40vh - 50px);
+  background-color: #eeeeee;
+}
+.footer-top a {
+  text-decoration: none;
+  color: #999999;
+  margin: 10px;
+}
+.footer-bottom {
+  height: 50px;
+  background-color: #f2f2f2;
+}
+.footer-bottom p {
+  font-size: 14px;
+}
